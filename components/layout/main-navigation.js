@@ -12,6 +12,12 @@ function MainNavigation() {
       </Link>
       <nav>
         <ul>
+        <li>
+            <Link href='/tech'>New Tech</Link>
+          </li>
+          <li>
+            <Link href='/pform'>New Form</Link>
+          </li>
           <li>
             <Link href='/posts'>Posts</Link>
           </li>
